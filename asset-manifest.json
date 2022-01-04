@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca64dd57.css",
-    "main.js": "/static/js/main.836e6a9e.js",
-    "static/js/377.beea32b8.chunk.js": "/static/js/377.beea32b8.chunk.js",
-    "service-worker.js": "/service-worker.js",
-    "static/media/diamond.svg": "/static/media/diamond.574fa9f05e8c15480d08918a179a9e5c.svg",
-    "index.html": "/index.html",
-    "main.ca64dd57.css.map": "/static/css/main.ca64dd57.css.map",
-    "main.836e6a9e.js.map": "/static/js/main.836e6a9e.js.map",
-    "377.beea32b8.chunk.js.map": "/static/js/377.beea32b8.chunk.js.map"
+    "main.css": "https://wuit04.github.io/static/css/main.8e325c17.css",
+    "main.js": "https://wuit04.github.io/static/js/main.6731b182.js",
+    "static/js/377.beea32b8.chunk.js": "https://wuit04.github.io/static/js/377.beea32b8.chunk.js",
+    "service-worker.js": "https://wuit04.github.io/service-worker.js",
+    "static/media/diamond.svg": "https://wuit04.github.io/static/media/diamond.574fa9f05e8c15480d08918a179a9e5c.svg",
+    "index.html": "https://wuit04.github.io/index.html",
+    "main.8e325c17.css.map": "https://wuit04.github.io/static/css/main.8e325c17.css.map",
+    "main.6731b182.js.map": "https://wuit04.github.io/static/js/main.6731b182.js.map",
+    "377.beea32b8.chunk.js.map": "https://wuit04.github.io/static/js/377.beea32b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca64dd57.css",
-    "static/js/main.836e6a9e.js"
+    "static/css/main.8e325c17.css",
+    "static/js/main.6731b182.js"
   ]
 }
